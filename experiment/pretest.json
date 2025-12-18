@@ -8,8 +8,6 @@
         "b": "Sunlight or a distant light source.",
         "c": "A torchlight beam."
       },
-      "explanations": {
-              },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -19,12 +17,6 @@
         "a": "To improve rendering speed.",
         "b": "To respond to user interactions in real time.",
         "c": "To reduce color complexity."
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -36,14 +28,9 @@
         "b": "To reduce shadows.",
         "c": "To create sharp-edged highlights."
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
       "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
 }
+
