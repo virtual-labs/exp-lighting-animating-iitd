@@ -8,12 +8,6 @@
         "b": "To create dynamic effects.",
         "c": "To eliminate shadows."
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
@@ -23,12 +17,6 @@
         "a": "By creating soft lighting and realistic shadows.",
         "b": "By eliminating all reflections.",
         "c": "By reducing rendering time."
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -41,14 +29,9 @@
         "c": "Removing high-contrast elements.",
         "d": "By adding more shadows."
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
       "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
 }
+
