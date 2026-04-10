@@ -1,1 +1,0 @@
-## Understanding Lighting in Virtual Reality
